@@ -1,0 +1,19 @@
+h1 {
+  color: #003366;
+  text-align: center;
+  font-family: fantasy;
+  margin-top: 15px;
+}
+.Whole {
+  color: #003366;
+  font-family: monospace;
+  font-size: 18px;
+  margin-left: 20px;
+  margin-right: 50px;
+}
+img {
+  border-radius: 10%;
+  width: 150px;
+  height: 150px;
+  padding-top: 10px;
+}
